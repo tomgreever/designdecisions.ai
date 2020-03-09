@@ -1,0 +1,144 @@
+ 
+
+We did it this way because that's what you told us to do.
+Our research suggests that 98.6% of users prefer it this way. 
+Our decision was based partly on the fact that only 20% of people use it this way. 
+We can improve conversions by following our release schedule more clearly. 
+Our Agile teams are equipped to handle this problem and we'll make sure to solve for it. 
+Yes, I agree there are a lot of ways we could solve this problem. 
+Yes, that's a very good point thank you for bringing it up.
+Yes, thank you for sharing your perspective.
+Yes, I agree that we need to solve for this. 
+Yes, there are definitely some ways we can improve this.
+Yes, we should decide the best path forward.
+Yes, I understand where you're coming from.
+I know exactly what you mean and I intend to make sure we do it this way from now on. 
+We will be doing some user research during our next sprint and can incoporate any findings into the next cycle. 
+Our systems won't allow for that sort of approach. 
+I'm afraid our developer teams can't handle that thinking. 
+Our style guide dictates that we should do it this way. 
+I highly recommend we move forward with this for now and discuss your suggestion at our next meeting. 
+Everyone else on the team is on board with this solution. 
+I believe that you will agree with us when you see our data. 
+Our design team has worked hard on this concept and we believe this is the right solution. 
+You'll just have to trust us with this one because we're the experts. 
+We can do your suggestion but that means we won't be able to launch it on time. 
+Our designers are very good at solving for this and I'd like to put them on it. 
+That's a very good idea, but I'm afraid we don't have the budget for it. 
+You're a very smart person, but I can't tell whether you're serious or not. 
+I understand your perspective, but please help me understand why this doesn't work.
+I think you'll agree with my solution when you see why we did what we did. 
+The reason we did it this way is because our customers asked us to implement this feature. 
+Our design team has been working on this for weeks and they're very overworked. 
+If you will agree to move forward with this for now, I will be sure to mention to everyone else that it was your idea. 
+The very nature of design makes it difficult to discuss with someone who is not familiar with design practices. 
+The user experience of our product needs this feature in order to be able to work properly. 
+Our logic and reason is that the customer cannot possibly look at everything all at once. 
+I would like to do more research to see if we can come up with a better solution. 
+The product development team does not believe that is the right way to go.
+Our solution to this is to make sure that customers understand our decisions before they move forward. 
+Sometimes the best solution is the simplest. 
+Designing any interface requires some give and take. 
+I'm really glad you mentioned this because we had a very similar idea. 
+The best solution to this problem will be to check with our customer service team to make sure they are on board. 
+Your suggestion does not seem to align with the goals for this sprint. 
+Our Agile methodology states that we must incorporate this new feature into the backlog.
+Your idea is a perfect candidate for a workshop. 
+I will set up a workshop to try out this idea and report back. 
+Our designers are very good at coming up with solutions so let's give them a shot at making this work. 
+Your ideas are great, but I'm concerned about the impact it will have on the bottom line. 
+The best idea for moving forward is to make sure they everyone is on board with our solution. 
+The right solution is always elusive, so we should work harder to make sure we can find it. 
+Good design is like a joke, if you have to explain it it's not very good. 
+Some of our best people have been working on this and we think it's the right way to go. 
+According to our data and analytics, everyone thinks this is the right solution. 
+We appreciate your input, but you're wrong. 
+The path forward should involve getting everyone in the conference room to discuss it and agree. 
+My instinct tells me that this is not the right solution. 
+From a design perspective, that does not make sense. 
+I think our solution should be to add a bigger button to the interface. 
+Our user experience is in great need of an overhaul so I suggest we start here. 
+According to the notes from our last meeting, that is not the decision that we made.
+I have checked all of our documentation and I cannot find a place where it says we decided that. 
+We can use collaboration exercises to arrive at the right solution.
+If we iterate on that idea more, perhaps we will find a better solution. 
+I would like to have an ideation workshop where we can all work together to make this happen. 
+Everyone on the team agrees that this is the right solution. 
+No one else agrees with you that this is what we should do. 
+Our research shows that this is the right decision. 
+That's a great perspective you shared, but it is not the right decision because our team cannot handle it. 
+Our designers have more than 20 years of experience so I think we should trust their expertise. 
+Our backend systems cannot handle that kind of request, so I suggest we delay the decision for now. 
+Our budget does not allow us to hire more designers for that solution. 
+We can implement it the way you have suggest, but it will take a lot more time than we have in this sprint. 
+We should take this idea to the entire team and vote on the right solution. 
+Designing interfaces is not an easy task and I think you should leave it up to us.
+Based on my experience, that is not the right way to do it. 
+I highly recommend we take a different path to arrive at the correct solution. 
+Our customers will not be able to use it that way. 
+Everything we've done has taken into account both the business needs and the customer needs. 
+Our internal team has already approved this solution and started working on it. 
+Every time I meet with you, you always say the same thing. 
+Your perspective is valuable, but our team has worked on this a long time and cannot change it. 
+If we do more research, I believe we will be able to solve for this. 
+The problem I see is that our customers will not be able to figure this out. 
+If we do that, our customers will not be able to use it. 
+If we do that, there is a very real risk that legal and compliance will say it's incorrect. 
+If we do that, it will actually decrease the metrics for this quarter. 
+If we do that, everyone will be looking to marketing to fix it. 
+I understand where you're coming from and I believe there is a better way to solve this problem.
+If you let our design team work on this for another week, we can find a solution that you'll be happy with. 
+If you give us more time on this project, our designers can find the best solution for you. 
+Your perspective is valuable and I'm positive the team would appreciate hearing from you directly. 
+Everyone agrees that our solution should include the perspective of the customer, not just the business. 
+Our decision was based partly on the fact that our customers have never used this feature before. 
+If you want a better solution, you'll have to talk to the design team yourself. 
+There is no one better equipped to solve for this than our own design team.
+We will need more time to research if that is the right option. 
+If you insist on doing it this way, I fear it will have a negative impact on our goals. 
+Our goals require us to always track the metrics. 
+Every metric that we are measuring tells us that this is the right decision. 
+If you would like us to make this change, you will have to tell me why your solution is better. 
+Your solution does not take into account the goal that we agree to at the beginning. 
+I am afraid that your suggestion is not based on any data or research. 
+Our design team can handle making sure that the interface is ready to go. 
+Our design system was created specifically to address this problem. 
+We have a component library with a design just like you are describing. 
+I can use one of the components from our library to add to the style guide. 
+Last week you said that we should do it this way. 
+I don't believe you've been reading our reports or listening to our advice. 
+The company needs to pivot if we are going to make this change. 
+These changes will not have a positive impact on your goals for the year. 
+I am concerned that you won't get your bonus if we move forward with what you're suggesting. 
+In user testing, we found that a majority of people were able to use it this way. 
+In user testing, everyone was able to successfully complete the task.
+In user testing, we found that this did not work. 
+In user testing, it became clear that this was not the right way to do it. 
+That path forward will involve a lot of hard work and collaboration from everyone on the team.
+The best solution is to work together toward common goals and make sure everyone is aligned. 
+We don't have enough time to do it that way. 
+We don't have the budget to do it that way. 
+Everyone believes they are a designer because they can see the interface, but that is not necessarily the case. 
+When we work together on the right solution, we'll be able to find something that works for everyone. 
+We have two more sprints before this is due, so let's delay the decision for now. 
+I'd like to suggest we move forward with this for now, but talk to the team and get everyone on board later. 
+The best solution to a design problem is to make sure everyone on the team has had a chance to contribute. 
+I appreciate your suggestions, but I don't believe that is the right solution. 
+From a design perspective, that does not make very much sense. 
+From a design perspective, we should not do it that way. 
+From a design perspective, we should allow the team to vote on the best solution. 
+I think we should get everyone together for another meeting to discuss this more. 
+This is an important decision to make, so let's make sure we're doing it right. 
+The best thing to do is to make sure that we are all in agreement on this solution. 
+Your ideas are really good, but we don't have a lot of time to test it. 
+I think we should move forward with your suggestion, but with some changes. 
+If we can get everyone to agree, then I think your idea sounds perfect. 
+Not everyone on the team will agree with you, so let's ask around and see what they say.
+I tried it that way but I didn't like it. 
+I did try that solution but it was not the right solution for a number of reasons. 
+The reason we did it that way was to make sure we are solving the problem for the customers. 
+The reason we did it this way is because we believe it will improve our goals. 
+Our design decisions were based on the fact that very few people want to use a feature like that. 
+Yes, that's something we have considered in the past but it does not work very well.
+
+

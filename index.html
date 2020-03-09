@@ -1,0 +1,77 @@
+<!doctype html>
+<html>
+<head>
+    <title>AI-Generated Design Decision Explanations</title>
+    <link rel="stylesheet" href="src/styles.css" />
+    <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+
+	<meta name="viewport" content="initial-scale=1.0, width=device-width, maximum-scale=1.0" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+
+    <!-- Primary Meta Tags -->
+    <meta name="title" content="AI-Generated Design Decision Explanations">
+    <meta name="description" content="Use Tom Greever's AI generator to come up with the perfect explanation for your design decisions!">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://tomgreever.com">
+    <meta property="og:title" content="AI-Generated Design Decision Explanations">
+    <meta property="og:description" content="Use Tom Greever's AI generator to come up with the perfect explanation for your design decisions!">
+    <meta property="og:image" content="card-image.png">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://tomgreever.com">
+    <meta property="twitter:title" content="AI-Generated Design Decision Explanations">
+    <meta property="twitter:description" content="Use Tom Greever's AI generator to come up with the perfect explanation for your design decisions!">
+    <meta property="twitter:image" content="card-image.png">
+
+
+
+</head>
+<body>
+    <header class="container">
+    <img class="parakeet" src="parakeet.png" alt="Parakeet" />
+    <h1>AI Generated Design Decisions</h1>
+    <p>Having a difficult time explaining your design decisions? Try this:</p>
+    </header>
+    
+    <div class="container quote">
+        <div id="status"></div>
+        <blockquote id="decision"></blockquote>
+    </div>
+    <div class="container">
+        <div class="share">
+            <p>Share: 
+                <span id="twitter"></span> &bull;
+                <a href="http://www.facebook.com/sharer.php?u=https://tomgreever.com/">Facebook</a> &bull; 
+            <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://tomgreever.com/">LinkedIn</a></p>
+            <button id="generate">Generate Another!</button>
+        </div>
+    </div>
+    <footer class="container">
+        <p>Not helpful? Pick up a copy of my book <a href="http://amzn.to/1VD6dMp">Articulating Design Decisions</a> for some real advice.</p>
+        <p>by <a href="https://tomgreever.com">Tom Greever</a> based on <a href="https://github.com/daneden/markov-js">markov.js</a></p>
+    </footer>
+    
+    </div>
+    
+    <script src="js/lodash.min.js"></script>  
+    <script src="js/markov.js"></script>  
+    <script src="js/app.js"></script>  
+    
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-26443961-1']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
+</body>
+</html>
