@@ -31,6 +31,14 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/CNAME": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/CNAME",
+		"oF": 0
+		},
 	"/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
@@ -102,6 +110,25 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"/src/decisions.txt": {
 		"cB": 0,
 		"ft": 8192,
@@ -151,7 +178,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 605478572.57470798,
-	"displayValue": "ai",
+	"displayValue": "designdecisions.ai",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0
