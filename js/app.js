@@ -65,7 +65,7 @@ function generateDecision() {
 
         output = getMarkovSentence(decisionMin, decisionMax);  
         decision.innerHTML = output;
-        twitter.innerHTML = '<a href="https://twitter.com/intent/tweet?text=My%20AI-generated%20explanation%20for%20my%20design%20decisions:%20&quot;'+output+'&quot;%20via%20%40tomgreever">Twitter</a>'
+        twitter.innerHTML = '<a href="https://twitter.com/intent/tweet?text=AI-generated%20explanation%20for%20my%20design%20decisions:%20&quot;'+output+'&quot;%20via%20%40tomgreever at https://designdecisions.ai">Twitter</a>'
         
         setStatus('');
         genButton.disabled = '';
