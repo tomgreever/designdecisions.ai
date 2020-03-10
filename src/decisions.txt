@@ -181,9 +181,65 @@ Our customers need access to this and our team has been working non-stop to make
 You would be welcome to join our next user testing session. 
 There is a lot more to consider here than just your perspective. 
 We have to make sure this is going to work for all use cases.
-
-
-
+Your opinions are not as valuable as objective advice.
+We need to make sure that our biases are not influencing this decision.
+Your prescriptive advice is not as useful as if you would focus on helping solve the problem.
+If we aren't careful, our own bias will cloud our judgement and we won't build the right thing. 
+We need to be sure we're building the right thing and not just what we want to build. 
+What matters the most is that we build something that will solve a problem for our customers.
+I'd recommend that we ideate on this more in a workshop to find out if what we're doing it correct.
+It would be impossible for us to do it that way.
+It's not possible for us to accommodate that solution while also incorporating the feedback from the other teams.
+While I think you have a good point, I'm afraid I disagree on the specifics of the solution you have in mind.
+My advice is to double check everything by doing some user tests.
+We have a design system to be sure that everything we design adheres to our companies brand guidelines.
+Our style guide is intended to address this problem. 
+I can find several design patterns in our style guide which would address your concerns. 
+I don't know whether you're kidding or not. 
+I think we need to discuss the wider implications of this change. 
+It's true that this decision is based on data and I believe that is the right way to do it. 
+If we organized a design thinking workshop, we might be able to come up with a better solution.
+According to our brand guidelines, this is the right way to implement this part of the design.
+This solution has already been approved by legal and marketing. 
+If you believe your solution is better, please help me understand why that is. 
+I can see how your recommendation solve for this, but I believe our solution will be better in the long term.
+We can do an A/B test to see which solution is the most effective. 
+We are more concerned about what design is the most effective for our users than we are about what this group thinks. 
+I have never seen any other company do it this way.
+Please share any reference material you have to support your suggestion. 
+Our meetings should always be focused on making sure that the user remains at the center of the conversation.
+You've hired designers for a reason. 
+As the experts on design, my team and I recommend this solution. 
+We have expertise in this area and I'd like to ask that you trust us with this solution, even if you disagree.
+We've put a lot of time and effort into trying to find the right solution for you.
+Our customers are the most important consideration, so I suggest we take a minute to consider whether that's true.
+We cannot make progress without your support to move forward with this solution. 
+If we make this change, I cannot be certain that we will meet the deadline.
+We do expect that our solution will fix the problem we're having with customers.
+We need to make sure that everyone is aligned on the right way to solve for this.
+When we met last week, you agreed that this was the right solution.
+I'd like to suggest we postpone the decision until we can come up with a better solution for the business.
+Everyone on our team agrees that making this decision will have a negative effect on conversion.
+According to our documentation, this is not the decision that we made this time last week.
+Your suggestion is not going to help our team deliver on time.
+Every meeting we have delays our decision and prevents our team from being able to deliver on time. 
+Please trust us with this solution. We think this is the right way to do.
+Your own biases are preventing you from understanding the best solution.
+It's true that it's risky making this change, but I believe it will help the user experience. 
+Our job is to make sure the user remains at the center of the conversation.
+I could use your help understanding what you mean. 
+I don't understand what you mean by that. 
+In some ways, our decisions are intended to give the customer a sense of control over their data.
+When we created this, our team had spent countless hours interviewing customers.
+We have a lot of evidence that this is the best way to implement this. 
+I will need to follow up with our brand experts to make sure that is compliant.
+Every interface requires a certain amount of tradeoff with the design.
+Our interfaces are intentionally designed to be easy to use for the customer.
+Everything about your suggestion flies in the face of logic.
+I understand where you're coming from, but we cannot do it that way for compliance reasons. 
+Your ideas are fantastic. It's just that everyone believes this is the right solution.
+We will need to do more research to understand if that's the case or not.
+I've heard that before and I believe the best way forward is to have another meeting.
 
 
 
