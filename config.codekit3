@@ -51,9 +51,9 @@
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"/js/app-min.js": {
 		"bF": 0,
@@ -119,9 +119,9 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/README.html",
-		"oF": 0,
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -133,9 +133,9 @@
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/src/decisions.txt",
-		"oF": 0
+		"oF": 1
 		},
 	"/src/styles.css": {
 		"aP": 1,

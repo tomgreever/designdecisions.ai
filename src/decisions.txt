@@ -140,5 +140,58 @@ The reason we did it that way was to make sure we are solving the problem for th
 The reason we did it this way is because we believe it will improve our goals. 
 Our design decisions were based on the fact that very few people want to use a feature like that. 
 Yes, that's something we have considered in the past but it does not work very well.
+I was hoping you'd say that because we have just the solution for you. 
+Our backlog contains more items than we can manage. We won't be able to work on that. 
+Our team is confident that this is the right decision to make. 
+We could consider presenting this to the executive committee. 
+Our best guess is that the users will not be able to understand what you're suggesting. 
+If we do that, we will have to consider changing our workload again. 
+You suggestions are good, but we will need more time to decide the best path forward. 
+I'm sorry but I don't think that will work with our existing system. 
+The developers have told me that this is not possible. 
+I spoke with our backend team and they are of the opinion that this idea will not work. 
+If you want us to do that, we should do some additional user testing to make sure we're on the right path.
+That could work, but I highly recommend you consider what our team has put together here. 
+Yes, I see what you mean, but we are already behind schedule on this project.
+Our research suggests that this isn't possible. 
+We could hire an outside consulting company to help with that. 
+I disagree that your suggestion will work as well as you think it will. 
+Let's re-group and get the team together next week to decide. 
+It's possible that the version you're seeing hasn't been updated with the latest designs. 
+Please refresh your browser and empty the cache first. 
+One option that will work is if we move the deadline back by several weeks. 
+The challenge we have is that we don't have the resources necessary to support that. 
+An Agile approach suggests that we do two week sprints and iterate frequently. 
+The best way to approach this is going to be do a design thinking exercise. 
+Our user journey map tells us that this is really the best decision. 
+I don't believe that recommendation is reflected in our current user journeys and user flows. 
+We originally decided that this user flow was the right choice for the business. 
+There are a number of different ways we can solve this and that is one of them.
+I'm concerned that this solution will not work as well as you think it will. 
+If we move forward with that, we will have to take into consideration whether or not it will affect our goals.
+The simplest solution is usually the most obvious. 
+I don't disagree with you, but I will need to talk to the rest of the team to see what they think. 
+Our team can work something up to address this. 
+Your perspective is really interesting. We should explore this more. 
+I'm going to have to get back to you on this because this isn't the decision we agreed to previously. 
+When we meet, I'd like to have clear expectations about what sort of feedback we need from you.
+I appreciate you sharing that with me. We made this decision based on the data we had available.
+Every decision we make has a clear rationale behind it.
+Our customers need access to this and our team has been working non-stop to make sure it works.
+You would be welcome to join our next user testing session. 
+There is a lot more to consider here than just your perspective. 
+We have to make sure this is going to work for all use cases.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
