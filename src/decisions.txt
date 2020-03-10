@@ -29,6 +29,7 @@ Design will need a seat at the table if we are to be expected to have this much 
 Not every design is the right choice, which is why I've created several alternatives for you to consider. 
 Our customers demand that we release this design as-is. 
 Design is not easy. Please trust us to do our jobs.
+We have a solid UX strategy for solving all of these issues.
 I can't explain to you why this solution is the best. You will have to trust me.
 After a lot of discussion, our team arrived at the solution you see.
 It's not necessary to question our expertise on design.
@@ -276,8 +277,7 @@ We were motivated to help our users finish these tasks faster, that's why we did
 A lot of thought and effort has gone into the designs you see today.
 Our UX strategy for this design has informed all of our decisions from research to content.
 In order to make this decision, we need to find the delta. 
-I can make it pop more.
-This color is our brand color.
+We really think this design pops more than the last one.
 Once we get the results back from our user research team, I can let you know. 
 Everyone is excited to see this design in production, so let's agree that this solution will work for now.
 You need to keep in mind that all of us on the design team are experts at our craft.
@@ -291,3 +291,61 @@ Our design is intended to increase revenue.
 We did a design thinking exercise where each participant drew their suggestions and this is the result.
 We started with divergent thinking and then brought everything together to arrive at this solution.
 We believe this is the best solution for the customer because it gets them to their content faster.
+Our style guide includes all the necessarily components to make this product successful.
+The nature of design is that it's very subjective, but we are using brain science to identify our user's pain points.
+Design can be fickle, but all of our solutions are based on solid scientific evidence.
+Our corporate design standards allow the interface to use each one of these components.
+We did a design sprint to come up with this UX solution.
+Some of the brightest minds in our industry have recommended similar approaches. 
+Our designs are so unique and innovative that every customer is going to love what we've done.
+That's what the marketing department told us we had to do.
+We were limited by what our branding guidelines allowed us to do.
+Our solution is naturally limited by the technology we have available. 
+We had to design it this way to accommodate the tech stack our dev team uses.
+We tried to create something much more attractive, but there was not enough time to do so.
+We used a Jobs To Be Done framework to help us make the decisions on this project. 
+Most of our thinking is based purely on our own intuition.
+We used a design sprint to help the team come up with the right ideas. 
+Our process for continuous delivery allowed us to iterate on this design sprint very quickly.
+The design tools we use make it very easy to generate dynamic prototypes like this. 
+We have iterated on this for a long time. 
+We held an ideation workshop with the entire team last week to find the best possible user experience. 
+Our designs are intended to reduce the cognitive load for our users so they can focus on the interface.
+We did a competitive analysis and found that our recommendation aligns well with what the market will tolerate.
+Our users have a difficult time using this interface, so we re-designed it to be much easier to use.
+We found that most of our users do not have a need for this particular feature.
+Our focus on both divergent and convergent thinking is what led to this ideal solution. 
+This solution is compliant with accessibility standards. 
+We designed something that is both useful and delightful to use.
+We added an element of delight to every user interaction.
+It's important that we not only help the user, but that we also delight them. 
+We had a focused effort on interaction design during this sprint.
+Creating a good experience is not about what you can add, it's about what you can take away.
+We refined our designs by removing everything until there was nothing left to remove.
+These designs are so glossy that you'll want to lick them. 
+What we've created is the user experience equivalent of a candy-coated interface. 
+We're using many familiar patterns that match with our customer's mental models for how software works. 
+In order to understand our decisions, you would have to be familiar with modern design patterns.
+We've incorporated many design concepts from Neumorphism in order to make this design work.
+The purpose of this interface is to tell a good story to our customers about how the user experience is affected. 
+Design is all about good storytelling. 
+We've created a series of microinteractions which add value to the user experience in each animation. 
+Our designs use a modern card layout to achieve maximum interaction from the user.
+We decided to focus heavily on microinteraction design as a method for presenting the user with relevant content. 
+User engagement will be improved with this design effort.
+We've taken a brutalist approach to our designs during this sprint, which allow for simple solutions. 
+To avoid making this look like a template, we're using an asymmetrical layout.
+Storytelling is all about transferring data to the users in the best possible informative and creative way.
+By applying motion to illustrations we really make our designs stand out and bring them to the life.
+Microinteractions are the perfect proof that details and attention to them might greatly improve the overall user experience of our digital products.
+We expect our solutions to outperform industry standards. 
+We've applied the concepts of simplification and reduction in order achieve a balanced approach to the user experience.
+Content is king and the way it gets delivered plays a huge role in the impact it makes.
+Visuals are stronger than words.
+Build experiences, not construction kits.
+It feels like it's made by humans, for humans.
+Blending the content means building a wholesome experience on our own terms.
+These designs are so real you can smell it.
+We need to be sure we are understanding the scene, the mood, and the repercussions of the actions a user is taking.
+We teach our designs to understand context.
+Using a reference is the best way to learn new styles and perform diverse techniques.
