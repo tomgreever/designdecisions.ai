@@ -298,8 +298,53 @@ It's difficult to explain why your suggestion doesn't work as well as mine.
 If we are going to do Agile, I suggest against this proposal.
 Whenever we make changes like this, it always derails the efforts of the team. 
 The best solution is the one that takes into account both the customer and the business needs.
-
-
-
-
-
+While that would make sense, what I really need is for you to agree with me.
+All of our research points to this being the correct solution.
+We should do a design sprint to really see if this makes the most sense.
+Thank you for sharing. Now we need to move forward with this solution. 
+The best way to move forward is to ask everyone to vote on the solution that will improve our metrics.
+The customer experience is critical to our success, so let's agree to disagree.
+If we can find some data to support that position, I will gladly support it. 
+We will miss our target KPIs if we move forward with that idea today.
+I have a lot of expertise in this area and I don't think this is what we should do.
+It's always ideal to find some research to support your decisions if you want to get support. 
+All I need from you today is support to move forward.
+It's possible that I'm wrong on this, but I believe your biases are clouding your judgement. 
+If you like, I can invite you to the next user testing session. 
+Our researchers have a lot of experiences understanding our customer's needs.
+The business goals will have to be met and this design is the right solution.
+I don't think we're seeing eye to eye on this problem.
+I believe there's a miscommunication. I'm asking you to support our design decisions.
+I'm happy to accommodate your suggestion, as long as we are able to do user testing again before next week.
+While that's a great idea, I don't think we can get to that in this sprint.
+We will be watching our analytics this week and can report back to you if anything changes.
+It's possible that our designs for this part are based heavily on some assumptions about the customer. 
+We have customer journey maps that indicate otherwise.
+Our user journeys clearly demonstrate that this design is the best solution to this problem.
+No matter what, we always have to make sure we are solving problems for our users.
+We believe making this change will increase engagement across the board.
+We might need to use eye tracking software to really understand how people are using it.
+My whole team is at a conference next week so we will need to wait until after they get back.
+Everyone believes their solution is right, but rarely do people really take into account the needs and expectations of users.
+While I appreciate your insight, I'm not sure that's the best way to do it.
+You have a great perspective on the business and I'd like to suggest we do it this way for now.
+We can make this change now as-is and then always go back to change it again later once we have some data.
+There are a lot of things we considered when designing this user experience and I'd like to explain them to you.
+We have to take into account the needs and expectations of our customers first.
+It's useful if we consider this from a design perspective. Our solution is the best.
+There's no doubt that your ideas are valid. What I need is to go back and check our work with the developers.
+When we suggest changes like this, I'm afraid it feels a little like busy work to the rest of the team.
+We were motivated to help our users finish these tasks faster, that's why we did it this way.
+A lot of thought and effort has gone into the designs you see today.
+Our UX strategy for this design has informed all of our decisions from research to content.
+In order to make this decision, we need to find the delta. 
+I can make it pop more.
+This color is our brand color.
+If we do what you suggest, we'll most certainly have to make additional changes down the road.
+Once we get the results back from our user research team, I can let you know. 
+Everyone is excited to see this design in production, so let's agree that this solution will work for now.
+Your feedback is appreciated, but I just don't see how it's connected to the problem at hand. 
+Help me understand what you mean when you say that. I don't think we understand each other.
+If you could wave a magic wand, you would need to ask the entire team to re-do this part of the design.
+You need to keep in mind that all of us on the design team are experts at our craft.
+No matter what happens, we will make sure that everything gets fixed before it is put in production.
