@@ -240,12 +240,51 @@ I understand where you're coming from, but we cannot do it that way for complian
 Your ideas are fantastic. It's just that everyone believes this is the right solution.
 We will need to do more research to understand if that's the case or not.
 I've heard that before and I believe the best way forward is to have another meeting.
-
-
-
-
-
-
+Using a Lean UX approach should help us find the right solution.
+If we fill out this UX canvas, I'm sure we will find a way to agree with each other.
+I'm sorry you feel that way, but I believe we have the right solution. 
+There's no way we can make that happen. 
+If you'd like, we can start over and see what we come up with.
+A white-boarding exercise might be the best way to flesh out all these ideas.
+I'd suggest we do a design thinking workshop to really get the best from the design team.
+It's possible that your perspective is influenced heavily by your position in the company.
+There is a chance that we will not be able to deliver on time. 
+I don't have confidence that this conversation is going to be productive enough. 
+Let's move on for now and address that later. 
+We can always put this in the backlog and address it later. 
+We should discuss this with the front-end developers and find out if they can do it. 
+Our customers have never requested this feature before. 
+Your advice is welcome, but we will need to vet these ideas with real people. 
+We would like to implement this now and we can consider your suggestion for the next sprint.
+That is very similar to an idea that we had several weeks ago, but we abandoned it because it did not work.
+We tried that idea last time, but found that our users had a difficult time using it. 
+One of our users said this was the most difficult interface they have ever used. 
+We'd like to focus more on making sure that our users can complete their tasks on time.
+I'd like to know what other apps you've seen that do it this way.
+Please tell me more about your perspective so I can understand what you mean. 
+We have external research that indicates our design decisions will work. 
+We did it this way because that's what everyone agreed was the correct approach.
+When we implement this, we need to be sure we do enough research to check our assumptions. 
+Every interface has difficult parts and this one is very challenging to overcome. 
+You ideas are valid, but I cannot support them in this way. 
+You have some interesting ideas, but I do not think this is the right way to go. 
+Your suggestions have merit, but I do not believe they are based on objective data. 
+You may think you're the user, but really there is not a typical user. 
+While I understand your perspective, it will be difficult to implement the way you described. 
+I'm not sure I'm following you. Please repeat what you said.
+It's unclear if you trust us with this decision. Please clarify what you mean.
+I'm not sure who is responsible for making this decision, but I would like to move forward. 
+The customer database requires extensive work if we are to do what you would like. 
+I agree that this problem needs to be solved, but we will need to make sure our decisions are sound.
+There is a lot of evidence to suggest your assumptions are incorrect. 
+When we launch this, I'd like to be sure that you are available for the release. 
+Our design and development teams have put a lot of effort into finalizing this design.
+You cannot just come in here and tell us what to do.
+I'm sorry but this is not your decision to make. 
+We can delay the release by a few days in order to get that in. 
+Your suggestion is unlikely to yield the desired response.
+We have support from everyone else on the team with this solution. 
+If you want to make this change, I will have to get approval from everyone else first.
 
 
 
