@@ -27,12 +27,12 @@ function setStatus(text) {
 }
 
 function loadSource(callback) {
-        setStatus('loading decisions');
+        setStatus('loading');
 
         load('src/decisions.txt', function(data) {
             let plainText = data;
     
-            setStatus('processing decisions');
+            setStatus('processing');
             markovGenerator = new Text(plainText);
     
             callback();
@@ -83,7 +83,5 @@ function getMarkovSentence(min, max) {
 function getRandomRange(start, end) {
     return Math.floor(Math.random() * (end-start+1)) + start; 
 }
-
-
 
 startup();

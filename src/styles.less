@@ -97,10 +97,12 @@ button {
 }
 .share {
     text-align: center;
-    margin-bottom: @gutter;
+    margin-bottom: @gutter/2;
+    padding: 0 @gutter/2;
 }
-footer {
+footer.container {
     border-top: 1px solid #ccc;
+    padding: @gutter;
 }
 .parakeet {
     width: 100px;
@@ -154,10 +156,10 @@ footer {
   width: 64px;
   height: 64px;
   margin: 8px;
-  border: 8px solid #dfc;
+  border: 8px solid #eee;
   border-radius: 50%;
   animation: lds-ring 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
-  border-color: #dfc transparent transparent transparent;
+  border-color: #eee transparent transparent transparent;
 }
 .lds-ring div:nth-child(1) {
   animation-delay: -0.45s;
