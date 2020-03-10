@@ -9,6 +9,28 @@
 	],
 "creatorBuild": "31934",
 "files": {
+	"/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 16035,
+		"oA": 0,
+		"oAP": "/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/card-image.jpg": {
+		"ft": 16384,
+		"iS": 194870,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/card-image.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/CNAME": {
 		"cB": 0,
 		"ft": 8192,
@@ -76,6 +98,17 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"/parakeet.png": {
+		"ft": 32768,
+		"iS": 27913,
+		"oA": 0,
+		"oAP": "/parakeet.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"/README.md": {
 		"cB": 0,
