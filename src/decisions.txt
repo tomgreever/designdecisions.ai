@@ -285,6 +285,19 @@ We can delay the release by a few days in order to get that in.
 Your suggestion is unlikely to yield the desired response.
 We have support from everyone else on the team with this solution. 
 If you want to make this change, I will have to get approval from everyone else first.
+Our decisions are based on industry-standard best practices.
+This is a standard approach to human-computer interaction design.
+My graduate studies focus on this problem and I believe my solution will make all the difference.
+In grad school, I was able to solve these kinds of problems with data.
+My dissertation included research in this area, so you should trust me with the solution. 
+You're going to have to trust me because I am the expert.
+You're paying me to come up with the right solution, so I think you should trust me. 
+Good design should be obvious and this solution is obviously not good.
+I know good design when I see it and this is not it.
+It's difficult to explain why your suggestion doesn't work as well as mine.
+If we are going to do Agile, I suggest against this proposal.
+Whenever we make changes like this, it always derails the efforts of the team. 
+The best solution is the one that takes into account both the customer and the business needs.
 
 
 
