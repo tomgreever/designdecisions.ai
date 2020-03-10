@@ -1,8 +1,72 @@
  
 
+All of our customers are excited about this feature, so we should consider putting it into production.
+Everyone on our team is in agreement that this is the right solution. 
+When we create design solutions, we only choose the very best user experiences.
+People will be really excited when they see these design changes on our website.
+This includes all of the features that people have been asking for for many years.
+It is not easy to make difficult design decisions like this and I appreciate you respecting our process.
+Our design process is honed to make sure that we always deliver the very best user experience.
+We've developed a design process that takes into account the needs of our users, as well as the business goals.
+Everything we do centers around solving problems for both the business and the customer. 
+It's common for our customers to complain about this feature, so we've fixed it by adding these design elements.
+Everything you see here comes directly from our style guide and component library.
+We spent weeks coming up with this solution and I think you'll love what you see.
+Our design team is the best at coming up with solutions for your business problems.
+We've been utilizing some techniques that we learned at a conference.
+Our team attended an all day session on this topic, so we're experts at coming up with solutions.
+We have done extensive user testing on all of these issues and believe this is the best solution so far.
+A majority of our research participants found this solution to be the easiest to use.
+The business goals have changed without us being informed, so we were forced to make some last-minute changes.
+Because of the recent economic realities, we are constrained by this particular design format.
+We have added a lot more animations and attractive images to make this design more enjoyable to use.
+Our interaction design is more advanced than any other company.
+We have hired the very best designers and I guarantee you this solution will work.
+We cannot afford to not do it this way.
+Our design decisions are the best because we put a lot of time and effort into it. 
+Everyone on our team went to art school, so they are qualified to make these design decisions.
+Design will need a seat at the table if we are to be expected to have this much influence in the company.
+Not every design is the right choice, which is why I've created several alternatives for you to consider. 
+Our customers demand that we release this design as-is. 
+Design is not easy. Please trust us to do our jobs.
+I can't explain to you why this solution is the best. You will have to trust me.
+After a lot of meditation, our team arrived at the solution you see.
+It's not necessary to question our expertise on design.
+This design is sexy, fluid, and ready to go viral.
+With this design, your business will go viral in a matter of hours. 
+With this design, no one will be able to stop us from overtaking our competition.
+This design is better than anything that Apple could have done.
+We make all of the best design decisions because we are trained to understand our users. 
+The results of our A/B test clearly showed that this design is the winner.
+Our A/B testing platform was instrumental in helping us choose the right design for this project.
+In our sprint planning, we identified several key areas that we should focus on.
+Our backlog is filled with dozens of ideas for how to solve this and we arrived at this one.
+We created a customer journey map and that allowed us to arrive at the right solution.
+Our customer journey does not align with the goals of the business, so we re-designed it.
+I created an empathy map of our customers and this is the result. 
+We designed this by having a lot of empathy for our customers and how they use the product.
+Our team spent two weeks doing empathy exercises to really get in minds of our customers. 
+With a little more time, we will be able to find the perfect design solution to this problem.
+I'd like to suggest we have another meeting in a week to discuss this further.
+There are no bad ideas, that's why we'd like to invite you to come to our brainstorming session.
+Good ideas can come from anywhere and this idea came from our research.
+We've run qualitative analysis on this user flow and discovered a flaw in the way we lead users down the path.
+The animations allow the user to feel some emotion when they use it.
+The trouble with our product is that it is rarely used in the context we text for.
+Our best designers have come up with this solution to your business problems.
+You're going to love everything I have to show you today.
+Our decisions are based on facts and reason, not only pretty pictures. 
+We still need to do some additional testing, but I believe this solution is your best choice.
+Everyone on the team disagrees with you.
+Our business metrics will not improve until we implement these features in this way.
+There are a number of ways to solve this problem, but our solution considers the most use cases.
+We considered a variety of approaches, but believe this design to be the absolute best option for you.
+We know you have an opinion on this, but we'd like you to support our decision even if you disagree.
 We did it this way because that's what you told us to do.
 Our research suggests that 98.6% of users prefer it this way. 
 Our decision was based partly on the fact that only 20% of people use it this way. 
+We recommend this design because it was vetted by professionals in the industry who know what they're talking about.
+From a design perspective, our decisions are based on reason and logic.
 We can improve conversions by following our release schedule more clearly. 
 Our Agile teams are equipped to handle this problem and we'll make sure to solve for it. 
 Yes, I agree there are a lot of ways we could solve this problem. 
@@ -13,7 +77,7 @@ Yes, there are definitely some ways we can improve this.
 Yes, we should decide the best path forward.
 Yes, I understand where you're coming from.
 I know exactly what you mean and I intend to make sure we do it this way from now on. 
-We will be doing some user research during our next sprint and can incoporate any findings into the next cycle. 
+We will be doing some user research during our next sprint and can incorporate any findings into the next cycle. 
 Our systems won't allow for that sort of approach. 
 I'm afraid our developer teams can't handle that thinking. 
 Our style guide dictates that we should do it this way. 
@@ -29,7 +93,7 @@ You're a very smart person, but I can't tell whether you're serious or not.
 I understand your perspective, but please help me understand why this doesn't work.
 I think you'll agree with my solution when you see why we did what we did. 
 The reason we did it this way is because our customers asked us to implement this feature. 
-Our design team has been working on this for weeks and they're very overworked. 
+Our design team has been working on this for weeks. 
 If you will agree to move forward with this for now, I will be sure to mention to everyone else that it was your idea. 
 The very nature of design makes it difficult to discuss with someone who is not familiar with design practices. 
 The user experience of our product needs this feature in order to be able to work properly. 
@@ -216,6 +280,17 @@ Our customers are the most important consideration, so I suggest we take a minut
 We cannot make progress without your support to move forward with this solution. 
 If we make this change, I cannot be certain that we will meet the deadline.
 We do expect that our solution will fix the problem we're having with customers.
+I read a book about design that suggested we do it this way.
+Design is never complete, but we can always choose to stop and implement this for now.
+I would like to move forward with this design. Please choose which one you prefer.
+I like this design better and I think you should trust me.
+You can clearly see which design is superior. Please give your approval.
+I need you to choose the design that best suits your preferences.
+By doing it this way, all of our customers will be able the finish their tasks on time.
+Design is a hard skill to master, so please be patient while we discuss our decisions.
+I'd like to walk you through all of our design decisions one at a time.
+It's not possible to solve for all use cases, so we've narrowed our decision down to this one.
+Every design we show you will demonstrate the value that our team brings to the company.
 We need to make sure that everyone is aligned on the right way to solve for this.
 When we met last week, you agreed that this was the right solution.
 I'd like to suggest we postpone the decision until we can come up with a better solution for the business.
@@ -226,6 +301,10 @@ Every meeting we have delays our decision and prevents our team from being able 
 Please trust us with this solution. We think this is the right way to do.
 Your own biases are preventing you from understanding the best solution.
 It's true that it's risky making this change, but I believe it will help the user experience. 
+The truth is, design is difficult to explain, but I hope you will bear with me while I talk through it.
+Our designs cannot have the impact they need without your approval.
+The key to creating the best design is to always make sure that the customer is the center of the process.
+Our process is designed to eliminate bias from the conversation so we can arrive at the best possible design decisions.
 Our job is to make sure the user remains at the center of the conversation.
 I could use your help understanding what you mean. 
 I don't understand what you mean by that. 
@@ -348,3 +427,12 @@ Help me understand what you mean when you say that. I don't think we understand 
 If you could wave a magic wand, you would need to ask the entire team to re-do this part of the design.
 You need to keep in mind that all of us on the design team are experts at our craft.
 No matter what happens, we will make sure that everything gets fixed before it is put in production.
+In every user study, we curate a list of the most commonly used features and this one was the winner. 
+The results of our A/B text indicated that this was the right choice. 
+Our design team spent weeks pouring over all the data and has come to the conclusion that this is the right choice. 
+I think you'll understand when you see how our research impacted this design decision. 
+We've collected dozens of stories from our customers to help us narrow the choices down to this.
+Our design is intended to increase revenue. 
+We did a design thinking exercise where each participant drew their suggestions and this is the result.
+We started with divergent thinking and then brought everything together to arrive at this solution.
+We believe this is the best solution for the customer because it gets them to their content faster.
