@@ -30,8 +30,10 @@ Not every design is the right choice, which is why I've created several alternat
 Our customers demand that we release this design as-is. 
 Design is not easy. Please trust us to do our jobs.
 I can't explain to you why this solution is the best. You will have to trust me.
-After a lot of meditation, our team arrived at the solution you see.
+After a lot of discussion, our team arrived at the solution you see.
 It's not necessary to question our expertise on design.
+This is one of the most innovative design solutions you've ever seen.
+We use a special form of innovative thinking in our design process.
 This design is sexy, fluid, and ready to go viral.
 With this design, your business will go viral in a matter of hours. 
 With this design, no one will be able to stop us from overtaking our competition.
@@ -47,17 +49,14 @@ I created an empathy map of our customers and this is the result.
 We designed this by having a lot of empathy for our customers and how they use the product.
 Our team spent two weeks doing empathy exercises to really get in minds of our customers. 
 With a little more time, we will be able to find the perfect design solution to this problem.
-I'd like to suggest we have another meeting in a week to discuss this further.
 There are no bad ideas, that's why we'd like to invite you to come to our brainstorming session.
 Good ideas can come from anywhere and this idea came from our research.
 We've run qualitative analysis on this user flow and discovered a flaw in the way we lead users down the path.
 The animations allow the user to feel some emotion when they use it.
-The trouble with our product is that it is rarely used in the context we text for.
 Our best designers have come up with this solution to your business problems.
 You're going to love everything I have to show you today.
 Our decisions are based on facts and reason, not only pretty pictures. 
 We still need to do some additional testing, but I believe this solution is your best choice.
-Everyone on the team disagrees with you.
 Our business metrics will not improve until we implement these features in this way.
 There are a number of ways to solve this problem, but our solution considers the most use cases.
 We considered a variety of approaches, but believe this design to be the absolute best option for you.
@@ -69,17 +68,8 @@ We recommend this design because it was vetted by professionals in the industry 
 From a design perspective, our decisions are based on reason and logic.
 We can improve conversions by following our release schedule more clearly. 
 Our Agile teams are equipped to handle this problem and we'll make sure to solve for it. 
-Yes, I agree there are a lot of ways we could solve this problem. 
-Yes, that's a very good point thank you for bringing it up.
-Yes, thank you for sharing your perspective.
-Yes, I agree that we need to solve for this. 
-Yes, there are definitely some ways we can improve this.
-Yes, we should decide the best path forward.
-Yes, I understand where you're coming from.
-I know exactly what you mean and I intend to make sure we do it this way from now on. 
 We will be doing some user research during our next sprint and can incorporate any findings into the next cycle. 
 Our systems won't allow for that sort of approach. 
-I'm afraid our developer teams can't handle that thinking. 
 Our style guide dictates that we should do it this way. 
 I highly recommend we move forward with this for now and discuss your suggestion at our next meeting. 
 Everyone else on the team is on board with this solution. 
@@ -88,9 +78,6 @@ Our design team has worked hard on this concept and we believe this is the right
 You'll just have to trust us with this one because we're the experts. 
 We can do your suggestion but that means we won't be able to launch it on time. 
 Our designers are very good at solving for this and I'd like to put them on it. 
-That's a very good idea, but I'm afraid we don't have the budget for it. 
-You're a very smart person, but I can't tell whether you're serious or not. 
-I understand your perspective, but please help me understand why this doesn't work.
 I think you'll agree with my solution when you see why we did what we did. 
 The reason we did it this way is because our customers asked us to implement this feature. 
 Our design team has been working on this for weeks. 
@@ -103,123 +90,67 @@ The product development team does not believe that is the right way to go.
 Our solution to this is to make sure that customers understand our decisions before they move forward. 
 Sometimes the best solution is the simplest. 
 Designing any interface requires some give and take. 
-I'm really glad you mentioned this because we had a very similar idea. 
 The best solution to this problem will be to check with our customer service team to make sure they are on board. 
-Your suggestion does not seem to align with the goals for this sprint. 
 Our Agile methodology states that we must incorporate this new feature into the backlog.
-Your idea is a perfect candidate for a workshop. 
-I will set up a workshop to try out this idea and report back. 
+I will set up a workshop to try out this idea. 
 Our designers are very good at coming up with solutions so let's give them a shot at making this work. 
-Your ideas are great, but I'm concerned about the impact it will have on the bottom line. 
 The best idea for moving forward is to make sure they everyone is on board with our solution. 
 The right solution is always elusive, so we should work harder to make sure we can find it. 
 Good design is like a joke, if you have to explain it it's not very good. 
 Some of our best people have been working on this and we think it's the right way to go. 
 According to our data and analytics, everyone thinks this is the right solution. 
-We appreciate your input, but you're wrong. 
 The path forward should involve getting everyone in the conference room to discuss it and agree. 
-My instinct tells me that this is not the right solution. 
-From a design perspective, that does not make sense. 
-I think our solution should be to add a bigger button to the interface. 
+My instinct tells me that this is the right solution. 
+From a design perspective, that does not make sense.  
 Our user experience is in great need of an overhaul so I suggest we start here. 
-According to the notes from our last meeting, that is not the decision that we made.
-I have checked all of our documentation and I cannot find a place where it says we decided that. 
-We can use collaboration exercises to arrive at the right solution.
+We use collaboration exercises to arrive at the right solution.
 If we iterate on that idea more, perhaps we will find a better solution. 
 I would like to have an ideation workshop where we can all work together to make this happen. 
 Everyone on the team agrees that this is the right solution. 
-No one else agrees with you that this is what we should do. 
 Our research shows that this is the right decision. 
-That's a great perspective you shared, but it is not the right decision because our team cannot handle it. 
 Our designers have more than 20 years of experience so I think we should trust their expertise. 
-Our backend systems cannot handle that kind of request, so I suggest we delay the decision for now. 
-Our budget does not allow us to hire more designers for that solution. 
-We can implement it the way you have suggest, but it will take a lot more time than we have in this sprint. 
-We should take this idea to the entire team and vote on the right solution. 
 Designing interfaces is not an easy task and I think you should leave it up to us.
-Based on my experience, that is not the right way to do it. 
+Based on my experience, this is the right way to do it. 
 I highly recommend we take a different path to arrive at the correct solution. 
-Our customers will not be able to use it that way. 
 Everything we've done has taken into account both the business needs and the customer needs. 
 Our internal team has already approved this solution and started working on it. 
-Every time I meet with you, you always say the same thing. 
-Your perspective is valuable, but our team has worked on this a long time and cannot change it. 
 If we do more research, I believe we will be able to solve for this. 
-The problem I see is that our customers will not be able to figure this out. 
-If we do that, our customers will not be able to use it. 
-If we do that, there is a very real risk that legal and compliance will say it's incorrect. 
-If we do that, it will actually decrease the metrics for this quarter. 
-If we do that, everyone will be looking to marketing to fix it. 
-I understand where you're coming from and I believe there is a better way to solve this problem.
 If you let our design team work on this for another week, we can find a solution that you'll be happy with. 
 If you give us more time on this project, our designers can find the best solution for you. 
-Your perspective is valuable and I'm positive the team would appreciate hearing from you directly. 
 Everyone agrees that our solution should include the perspective of the customer, not just the business. 
 Our decision was based partly on the fact that our customers have never used this feature before. 
-If you want a better solution, you'll have to talk to the design team yourself. 
 There is no one better equipped to solve for this than our own design team.
 We will need more time to research if that is the right option. 
-If you insist on doing it this way, I fear it will have a negative impact on our goals. 
 Our goals require us to always track the metrics. 
 Every metric that we are measuring tells us that this is the right decision. 
-If you would like us to make this change, you will have to tell me why your solution is better. 
-Your solution does not take into account the goal that we agree to at the beginning. 
-I am afraid that your suggestion is not based on any data or research. 
 Our design team can handle making sure that the interface is ready to go. 
 Our design system was created specifically to address this problem. 
-We have a component library with a design just like you are describing. 
-I can use one of the components from our library to add to the style guide. 
-Last week you said that we should do it this way. 
-I don't believe you've been reading our reports or listening to our advice. 
 The company needs to pivot if we are going to make this change. 
-These changes will not have a positive impact on your goals for the year. 
-I am concerned that you won't get your bonus if we move forward with what you're suggesting. 
 In user testing, we found that a majority of people were able to use it this way. 
 In user testing, everyone was able to successfully complete the task.
 In user testing, we found that this did not work. 
 In user testing, it became clear that this was not the right way to do it. 
 That path forward will involve a lot of hard work and collaboration from everyone on the team.
 The best solution is to work together toward common goals and make sure everyone is aligned. 
-We don't have enough time to do it that way. 
-We don't have the budget to do it that way. 
 Everyone believes they are a designer because they can see the interface, but that is not necessarily the case. 
 When we work together on the right solution, we'll be able to find something that works for everyone. 
 We have two more sprints before this is due, so let's delay the decision for now. 
 I'd like to suggest we move forward with this for now, but talk to the team and get everyone on board later. 
 The best solution to a design problem is to make sure everyone on the team has had a chance to contribute. 
-I appreciate your suggestions, but I don't believe that is the right solution. 
 From a design perspective, that does not make very much sense. 
 From a design perspective, we should not do it that way. 
 From a design perspective, we should allow the team to vote on the best solution. 
 I think we should get everyone together for another meeting to discuss this more. 
 This is an important decision to make, so let's make sure we're doing it right. 
-The best thing to do is to make sure that we are all in agreement on this solution. 
-Your ideas are really good, but we don't have a lot of time to test it. 
-I think we should move forward with your suggestion, but with some changes. 
-If we can get everyone to agree, then I think your idea sounds perfect. 
-Not everyone on the team will agree with you, so let's ask around and see what they say.
-I tried it that way but I didn't like it. 
-I did try that solution but it was not the right solution for a number of reasons. 
+The best thing to do is to make sure that we are all in agreement on this solution.  
 The reason we did it that way was to make sure we are solving the problem for the customers. 
 The reason we did it this way is because we believe it will improve our goals. 
 Our design decisions were based on the fact that very few people want to use a feature like that. 
-Yes, that's something we have considered in the past but it does not work very well.
-I was hoping you'd say that because we have just the solution for you. 
-Our backlog contains more items than we can manage. We won't be able to work on that. 
 Our team is confident that this is the right decision to make. 
-We could consider presenting this to the executive committee. 
 Our best guess is that the users will not be able to understand what you're suggesting. 
-If we do that, we will have to consider changing our workload again. 
-You suggestions are good, but we will need more time to decide the best path forward. 
-I'm sorry but I don't think that will work with our existing system. 
-The developers have told me that this is not possible. 
 I spoke with our backend team and they are of the opinion that this idea will not work. 
-If you want us to do that, we should do some additional user testing to make sure we're on the right path.
-That could work, but I highly recommend you consider what our team has put together here. 
-Yes, I see what you mean, but we are already behind schedule on this project.
 Our research suggests that this isn't possible. 
-We could hire an outside consulting company to help with that. 
-I disagree that your suggestion will work as well as you think it will. 
+We could hire an outside consulting company to help with this. 
 Let's re-group and get the team together next week to decide. 
 It's possible that the version you're seeing hasn't been updated with the latest designs. 
 Please refresh your browser and empty the cache first. 
@@ -228,49 +159,30 @@ The challenge we have is that we don't have the resources necessary to support t
 An Agile approach suggests that we do two week sprints and iterate frequently. 
 The best way to approach this is going to be do a design thinking exercise. 
 Our user journey map tells us that this is really the best decision. 
-I don't believe that recommendation is reflected in our current user journeys and user flows. 
 We originally decided that this user flow was the right choice for the business. 
 There are a number of different ways we can solve this and that is one of them.
-I'm concerned that this solution will not work as well as you think it will. 
-If we move forward with that, we will have to take into consideration whether or not it will affect our goals.
 The simplest solution is usually the most obvious. 
-I don't disagree with you, but I will need to talk to the rest of the team to see what they think. 
-Our team can work something up to address this. 
-Your perspective is really interesting. We should explore this more. 
-I'm going to have to get back to you on this because this isn't the decision we agreed to previously. 
-When we meet, I'd like to have clear expectations about what sort of feedback we need from you.
-I appreciate you sharing that with me. We made this decision based on the data we had available.
 Every decision we make has a clear rationale behind it.
 Our customers need access to this and our team has been working non-stop to make sure it works.
-You would be welcome to join our next user testing session. 
 There is a lot more to consider here than just your perspective. 
 We have to make sure this is going to work for all use cases.
-Your opinions are not as valuable as objective advice.
 We need to make sure that our biases are not influencing this decision.
-Your prescriptive advice is not as useful as if you would focus on helping solve the problem.
 If we aren't careful, our own bias will cloud our judgement and we won't build the right thing. 
 We need to be sure we're building the right thing and not just what we want to build. 
 What matters the most is that we build something that will solve a problem for our customers.
 I'd recommend that we ideate on this more in a workshop to find out if what we're doing it correct.
-It would be impossible for us to do it that way.
-It's not possible for us to accommodate that solution while also incorporating the feedback from the other teams.
-While I think you have a good point, I'm afraid I disagree on the specifics of the solution you have in mind.
 My advice is to double check everything by doing some user tests.
 We have a design system to be sure that everything we design adheres to our companies brand guidelines.
 Our style guide is intended to address this problem. 
 I can find several design patterns in our style guide which would address your concerns. 
-I don't know whether you're kidding or not. 
 I think we need to discuss the wider implications of this change. 
 It's true that this decision is based on data and I believe that is the right way to do it. 
 If we organized a design thinking workshop, we might be able to come up with a better solution.
 According to our brand guidelines, this is the right way to implement this part of the design.
 This solution has already been approved by legal and marketing. 
-If you believe your solution is better, please help me understand why that is. 
-I can see how your recommendation solve for this, but I believe our solution will be better in the long term.
 We can do an A/B test to see which solution is the most effective. 
 We are more concerned about what design is the most effective for our users than we are about what this group thinks. 
 I have never seen any other company do it this way.
-Please share any reference material you have to support your suggestion. 
 Our meetings should always be focused on making sure that the user remains at the center of the conversation.
 You've hired designers for a reason. 
 As the experts on design, my team and I recommend this solution. 
@@ -278,7 +190,6 @@ We have expertise in this area and I'd like to ask that you trust us with this s
 We've put a lot of time and effort into trying to find the right solution for you.
 Our customers are the most important consideration, so I suggest we take a minute to consider whether that's true.
 We cannot make progress without your support to move forward with this solution. 
-If we make this change, I cannot be certain that we will meet the deadline.
 We do expect that our solution will fix the problem we're having with customers.
 I read a book about design that suggested we do it this way.
 Design is never complete, but we can always choose to stop and implement this for now.
@@ -296,74 +207,40 @@ When we met last week, you agreed that this was the right solution.
 I'd like to suggest we postpone the decision until we can come up with a better solution for the business.
 Everyone on our team agrees that making this decision will have a negative effect on conversion.
 According to our documentation, this is not the decision that we made this time last week.
-Your suggestion is not going to help our team deliver on time.
 Every meeting we have delays our decision and prevents our team from being able to deliver on time. 
 Please trust us with this solution. We think this is the right way to do.
-Your own biases are preventing you from understanding the best solution.
 It's true that it's risky making this change, but I believe it will help the user experience. 
 The truth is, design is difficult to explain, but I hope you will bear with me while I talk through it.
 Our designs cannot have the impact they need without your approval.
 The key to creating the best design is to always make sure that the customer is the center of the process.
 Our process is designed to eliminate bias from the conversation so we can arrive at the best possible design decisions.
 Our job is to make sure the user remains at the center of the conversation.
-I could use your help understanding what you mean. 
-I don't understand what you mean by that. 
 In some ways, our decisions are intended to give the customer a sense of control over their data.
 When we created this, our team had spent countless hours interviewing customers.
 We have a lot of evidence that this is the best way to implement this. 
 I will need to follow up with our brand experts to make sure that is compliant.
 Every interface requires a certain amount of tradeoff with the design.
 Our interfaces are intentionally designed to be easy to use for the customer.
-Everything about your suggestion flies in the face of logic.
-I understand where you're coming from, but we cannot do it that way for compliance reasons. 
-Your ideas are fantastic. It's just that everyone believes this is the right solution.
 We will need to do more research to understand if that's the case or not.
-I've heard that before and I believe the best way forward is to have another meeting.
 Using a Lean UX approach should help us find the right solution.
 If we fill out this UX canvas, I'm sure we will find a way to agree with each other.
-I'm sorry you feel that way, but I believe we have the right solution. 
-There's no way we can make that happen. 
-If you'd like, we can start over and see what we come up with.
 A white-boarding exercise might be the best way to flesh out all these ideas.
 I'd suggest we do a design thinking workshop to really get the best from the design team.
-It's possible that your perspective is influenced heavily by your position in the company.
-There is a chance that we will not be able to deliver on time. 
-I don't have confidence that this conversation is going to be productive enough. 
-Let's move on for now and address that later. 
 We can always put this in the backlog and address it later. 
 We should discuss this with the front-end developers and find out if they can do it. 
 Our customers have never requested this feature before. 
-Your advice is welcome, but we will need to vet these ideas with real people. 
 We would like to implement this now and we can consider your suggestion for the next sprint.
-That is very similar to an idea that we had several weeks ago, but we abandoned it because it did not work.
-We tried that idea last time, but found that our users had a difficult time using it. 
 One of our users said this was the most difficult interface they have ever used. 
-We'd like to focus more on making sure that our users can complete their tasks on time.
-I'd like to know what other apps you've seen that do it this way.
-Please tell me more about your perspective so I can understand what you mean. 
+We'd like to focus more on making sure that our users can complete their tasks on time. 
 We have external research that indicates our design decisions will work. 
 We did it this way because that's what everyone agreed was the correct approach.
 When we implement this, we need to be sure we do enough research to check our assumptions. 
 Every interface has difficult parts and this one is very challenging to overcome. 
-You ideas are valid, but I cannot support them in this way. 
-You have some interesting ideas, but I do not think this is the right way to go. 
-Your suggestions have merit, but I do not believe they are based on objective data. 
-You may think you're the user, but really there is not a typical user. 
-While I understand your perspective, it will be difficult to implement the way you described. 
-I'm not sure I'm following you. Please repeat what you said.
-It's unclear if you trust us with this decision. Please clarify what you mean.
 I'm not sure who is responsible for making this decision, but I would like to move forward. 
 The customer database requires extensive work if we are to do what you would like. 
-I agree that this problem needs to be solved, but we will need to make sure our decisions are sound.
-There is a lot of evidence to suggest your assumptions are incorrect. 
 When we launch this, I'd like to be sure that you are available for the release. 
 Our design and development teams have put a lot of effort into finalizing this design.
-You cannot just come in here and tell us what to do.
-I'm sorry but this is not your decision to make. 
-We can delay the release by a few days in order to get that in. 
-Your suggestion is unlikely to yield the desired response.
 We have support from everyone else on the team with this solution. 
-If you want to make this change, I will have to get approval from everyone else first.
 Our decisions are based on industry-standard best practices.
 This is a standard approach to human-computer interaction design.
 My graduate studies focus on this problem and I believe my solution will make all the difference.
@@ -372,30 +249,17 @@ My dissertation included research in this area, so you should trust me with the 
 You're going to have to trust me because I am the expert.
 You're paying me to come up with the right solution, so I think you should trust me. 
 Good design should be obvious and this solution is obviously not good.
-I know good design when I see it and this is not it.
-It's difficult to explain why your suggestion doesn't work as well as mine.
+I know good design when I see it.
 If we are going to do Agile, I suggest against this proposal.
-Whenever we make changes like this, it always derails the efforts of the team. 
 The best solution is the one that takes into account both the customer and the business needs.
-While that would make sense, what I really need is for you to agree with me.
 All of our research points to this being the correct solution.
-We should do a design sprint to really see if this makes the most sense.
-Thank you for sharing. Now we need to move forward with this solution. 
+We should do a design sprint to really see if this makes the most sense. 
 The best way to move forward is to ask everyone to vote on the solution that will improve our metrics.
 The customer experience is critical to our success, so let's agree to disagree.
-If we can find some data to support that position, I will gladly support it. 
-We will miss our target KPIs if we move forward with that idea today.
 I have a lot of expertise in this area and I don't think this is what we should do.
-It's always ideal to find some research to support your decisions if you want to get support. 
-All I need from you today is support to move forward.
-It's possible that I'm wrong on this, but I believe your biases are clouding your judgement. 
-If you like, I can invite you to the next user testing session. 
+It's always ideal to find some research to support your decisions if you want to get support.  
 Our researchers have a lot of experiences understanding our customer's needs.
 The business goals will have to be met and this design is the right solution.
-I don't think we're seeing eye to eye on this problem.
-I believe there's a miscommunication. I'm asking you to support our design decisions.
-I'm happy to accommodate your suggestion, as long as we are able to do user testing again before next week.
-While that's a great idea, I don't think we can get to that in this sprint.
 We will be watching our analytics this week and can report back to you if anything changes.
 It's possible that our designs for this part are based heavily on some assumptions about the customer. 
 We have customer journey maps that indicate otherwise.
@@ -405,26 +269,17 @@ We believe making this change will increase engagement across the board.
 We might need to use eye tracking software to really understand how people are using it.
 My whole team is at a conference next week so we will need to wait until after they get back.
 Everyone believes their solution is right, but rarely do people really take into account the needs and expectations of users.
-While I appreciate your insight, I'm not sure that's the best way to do it.
-You have a great perspective on the business and I'd like to suggest we do it this way for now.
-We can make this change now as-is and then always go back to change it again later once we have some data.
 There are a lot of things we considered when designing this user experience and I'd like to explain them to you.
 We have to take into account the needs and expectations of our customers first.
 It's useful if we consider this from a design perspective. Our solution is the best.
-There's no doubt that your ideas are valid. What I need is to go back and check our work with the developers.
-When we suggest changes like this, I'm afraid it feels a little like busy work to the rest of the team.
 We were motivated to help our users finish these tasks faster, that's why we did it this way.
 A lot of thought and effort has gone into the designs you see today.
 Our UX strategy for this design has informed all of our decisions from research to content.
 In order to make this decision, we need to find the delta. 
 I can make it pop more.
 This color is our brand color.
-If we do what you suggest, we'll most certainly have to make additional changes down the road.
 Once we get the results back from our user research team, I can let you know. 
 Everyone is excited to see this design in production, so let's agree that this solution will work for now.
-Your feedback is appreciated, but I just don't see how it's connected to the problem at hand. 
-Help me understand what you mean when you say that. I don't think we understand each other.
-If you could wave a magic wand, you would need to ask the entire team to re-do this part of the design.
 You need to keep in mind that all of us on the design team are experts at our craft.
 No matter what happens, we will make sure that everything gets fixed before it is put in production.
 In every user study, we curate a list of the most commonly used features and this one was the winner. 
