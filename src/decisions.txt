@@ -322,7 +322,6 @@ It's important that we not only help the user, but that we also delight them.
 We had a focused effort on interaction design during this sprint.
 Creating a good experience is not about what you can add, it's about what you can take away.
 We refined our designs by removing everything until there was nothing left to remove.
-These designs are so glossy that you'll want to lick them. 
 What we've created is the user experience equivalent of a candy-coated interface. 
 We're using many familiar patterns that match with our customer's mental models for how software works. 
 In order to understand our decisions, you would have to be familiar with modern design patterns.
@@ -341,11 +340,67 @@ Microinteractions are the perfect proof that details and attention to them might
 We expect our solutions to outperform industry standards. 
 We've applied the concepts of simplification and reduction in order achieve a balanced approach to the user experience.
 Content is king and the way it gets delivered plays a huge role in the impact it makes.
-Visuals are stronger than words.
-Build experiences, not construction kits.
-It feels like it's made by humans, for humans.
-Blending the content means building a wholesome experience on our own terms.
 These designs are so real you can smell it.
 We need to be sure we are understanding the scene, the mood, and the repercussions of the actions a user is taking.
 We teach our designs to understand context.
 Using a reference is the best way to learn new styles and perform diverse techniques.
+We've spent countless hours interviewing users to make sure that this solution is correct.
+We have leveraged a Lean UX canvas to make sure we're solving the right problem for the business.
+The best way to validate our design decisions is to put them in front of real people.
+The most innovative companies can achieve designs like this.
+The best UX design in the world won't solve all our problems, but this solution is meant to move us in the right direction.
+Our lean methodology informs how we create the user experience and you'll love what we've designed.
+Most design teams focus on the user interface, but we focus on the customer experience.
+In order to understand our design decisions, you need to be aware of the differences between UI, UX, and interaction design.
+We've created a platform that can scale with the demands of our business by leveraging the best user experience design.
+Our experience with user interface design allows us to design the very best experiences for our customers.
+While mapping the user experience, our team uncovered some innovative ways to create the right UX.
+All design is storytelling and our UX is intended to tell the very best story for our customers.
+While design is subjective, we use a variety of research methods to eliminate bias and create objective UX.
+There are lots of ways to create good design decisions, but our team has worked hard to uncover bias in the process.
+Using modern behavioral analysis techniques, we have designed a solution that will delight users.
+By using collaborative exercises, the designers created a mockup with a vision of a preferred future.
+Our designs compose an aesthetic that transcends any modern design patterns we have today.
+This UX is going to be disruptive to the industry.
+Every disruptive solution requires a solid understand of human-computer interaction design.
+By leveraging efficiencies of the UI, our design solution solidifies our understanding of human behavior.
+We took a holistic approach to this design sprint by adding personalization to the on-boarding flow.
+Creating an engaging experience requires empathy for the user and a deep understanding of the business.
+Our designs establish a seamless integration between every platform service we offer to customers.
+The cognitive bias inherent in this solution is the key to removing assumptions from the process.
+We want to fail fast and fail often so we can deliver on a user experience that modifies user behavior.
+Each affordance you'll see in these designs are intentionally designed to create harmony for the user.
+Everyone on the team is aligned on the expectations that the user interface is intuitive and overwhelming.
+Our UX should be effortless for the user, so we added elements of delight that afford interacting with.
+This user experience is a timely reminder of the need for disruption in our industry.
+The proximity of these elements generates a feeling of satisfaction when the user interacts with it.
+The universal principles of design informed our desire to create a flexible and responsive platform.
+We must embrace failure as the fastest path to releasing a conversation with our customers.
+There are a lot of assumptions baked into these designs, so we took a Lean UX approach.
+Our designs are intuitive, engaging, simple, and diverse.
+Humanizing our users means we have developed empathy for their role and designed the interface to account for it.
+We focused on using concise language that creates a personal connection between our brand and the user.
+We expect to create harmony for our customers by leveraging a collaborative workshop approach to design techniques.
+Our design solution includes many enhancements to the accessibility of our tools. 
+This solution is clean and minimalistic in nature, so that we can create value for our users with design patterns.
+We've removed distractions from the interface so that we are able to optimize the performance of the UX.
+We created an efficiency with this interaction so that we allow our user's on-boarding process to be inclusive.
+All of our design systems are built with components to be useful, iterative, and adaptive.
+By embracing behavior change in our customers, we create new paths for sustainability in the industry.
+Our use of color and negative space assists the user in getting from point A to point B. 
+We need our users to look from top to bottom and left to right. 
+A flexible design pattern requires that our component library support cognitive bias overload.
+The performance of the system depends wholly on whether the user is able to finish the task.
+Cognitive bias is the surest way to deliver the outcome we design for our sprint.
+The interface is approachable for users seeking to diversify their cohesive experience.
+To achieve this disruptive design, we spent weeks studying the various assumptions that affect our bias.
+Our interaction designs are seamless, timely, engaging, and delightful. 
+Our design sprints create collaborative opportunities for customers to engage with our platform on-demand.
+The reusability of this library simplifies the nature of our design process and opens opportunities for transparency.
+A useful and usable UX solution should consider the context of the user's conversational UI.
+Providing feedback to our customers is a critical component to leveraging disruptive design techniques at scale.
+Our solution will scale because it is designed to be flexible with market conditions.
+We've avoided the use of dark patterns to avoid the ethical questions of design latency.
+The user's cognitive load must be considered by everyone on the team to ensure we deliver the right paradigm.
+The information architecture of our platform assists in creating an environment for workshop exercises. 
+Keep in mind that a majority of our users desire to interact with our systems with a cohesive experience.
