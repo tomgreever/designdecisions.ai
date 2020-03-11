@@ -56,7 +56,7 @@ function generateDecision() {
 
     setTimeout(function() {
 
-        let decisionMin = getRandomRange(30,40), 
+        let decisionMin = getRandomRange(50,60), 
             decisionMax = getRandomRange(70,150),
             output = '';
 
