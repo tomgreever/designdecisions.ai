@@ -1,5 +1,37 @@
  
-
+Our UX should be effortless for the user, so we added elements of delight that afford interacting with.
+This user experience is a timely reminder of the need for disruption in our industry.
+The proximity of these elements generates a feeling of satisfaction when the user interacts with it.
+The universal principles of design informed our desire to create a flexible and responsive platform.
+We must embrace failure as the fastest path to releasing a conversation with our customers.
+There are a lot of assumptions baked into these designs, so we took a Lean UX approach.
+Our designs are intuitive, engaging, simple, and diverse.
+Humanizing our users means we have developed empathy for their role and designed the interface to account for it.
+We focused on using concise language that creates a personal connection between our brand and the user.
+We expect to create harmony for our customers by leveraging a collaborative workshop approach to design techniques.
+Our design solution includes many enhancements to the accessibility of our tools. 
+This solution is clean and minimalistic in nature, so that we can create value for our users with design patterns.
+We've removed distractions from the interface so that we are able to optimize the performance of the UX.
+We created an efficiency with this interaction so that we allow our user's on-boarding process to be inclusive.
+All of our design systems are built with components to be useful, iterative, and adaptive.
+By embracing behavior change in our customers, we create new paths for sustainability in the industry.
+Our use of color and negative space assists the user in getting from point A to point B. 
+We need our users to look from top to bottom and left to right. 
+A flexible design pattern requires that our component library support cognitive bias overload.
+The performance of the system depends wholly on whether the user is able to finish the task.
+Cognitive bias is the surest way to deliver the outcome we design for our sprint.
+The interface is approachable for users seeking to diversify their cohesive experience.
+To achieve this disruptive design, we spent weeks studying the various assumptions that affect our bias.
+Our interaction designs are seamless, timely, engaging, and delightful. 
+Our design sprints create collaborative opportunities for customers to engage with our platform on-demand.
+The reusability of this library simplifies the nature of our design process and opens opportunities for transparency.
+A useful and usable UX solution should consider the context of the user's conversational UI.
+Providing feedback to our customers is a critical component to leveraging disruptive design techniques at scale.
+Our solution will scale because it is designed to be flexible with market conditions.
+We've avoided the use of dark patterns to avoid the ethical questions of design latency.
+The user's cognitive load must be considered by everyone on the team to ensure we deliver the right paradigm.
+The information architecture of our platform assists in creating an environment for workshop exercises. 
+Keep in mind that a majority of our users desire to interact with our systems with a cohesive experience.
 All of our customers are excited about this feature, so we should consider putting it into production.
 Everyone on our team is in agreement that this is the right solution. 
 When we create design solutions, we only choose the very best user experiences.
@@ -150,8 +182,6 @@ Our design decisions were based on the fact that very few people want to use a f
 Our team is confident that this is the right decision to make. 
 Our best guess is that the users will not be able to understand what you're suggesting. 
 I spoke with our backend team and they are of the opinion that this idea will not work. 
-Our research suggests that this isn't possible. 
-We could hire an outside consulting company to help with this. 
 Let's re-group and get the team together next week to decide. 
 It's possible that the version you're seeing hasn't been updated with the latest designs. 
 Please refresh your browser and empty the cache first. 
@@ -177,15 +207,13 @@ We have a design system to be sure that everything we design adheres to our comp
 Our style guide is intended to address this problem. 
 I can find several design patterns in our style guide which would address your concerns. 
 I think we need to discuss the wider implications of this change. 
-It's true that this decision is based on data and I believe that is the right way to do it. 
+This decision is based on data and I believe that is the right way to do it. 
 If we organized a design thinking workshop, we might be able to come up with a better solution.
 According to our brand guidelines, this is the right way to implement this part of the design.
 This solution has already been approved by legal and marketing. 
 We can do an A/B test to see which solution is the most effective. 
 We are more concerned about what design is the most effective for our users than we are about what this group thinks. 
-I have never seen any other company do it this way.
 Our meetings should always be focused on making sure that the user remains at the center of the conversation.
-You've hired designers for a reason. 
 As the experts on design, my team and I recommend this solution. 
 We have expertise in this area and I'd like to ask that you trust us with this solution, even if you disagree.
 We've put a lot of time and effort into trying to find the right solution for you.
@@ -244,11 +272,6 @@ Our design and development teams have put a lot of effort into finalizing this d
 We have support from everyone else on the team with this solution. 
 Our decisions are based on industry-standard best practices.
 This is a standard approach to human-computer interaction design.
-My graduate studies focus on this problem and I believe my solution will make all the difference.
-In grad school, I was able to solve these kinds of problems with data.
-My dissertation included research in this area, so you should trust me with the solution. 
-You're going to have to trust me because I am the expert.
-You're paying me to come up with the right solution, so I think you should trust me. 
 Good design should be obvious and this solution is obviously not good.
 I know good design when I see it.
 If we are going to do Agile, I suggest against this proposal.
@@ -371,36 +394,4 @@ The cognitive bias inherent in this solution is the key to removing assumptions 
 We want to fail fast and fail often so we can deliver on a user experience that modifies user behavior.
 Each affordance you'll see in these designs are intentionally designed to create harmony for the user.
 Everyone on the team is aligned on the expectations that the user interface is intuitive and overwhelming.
-Our UX should be effortless for the user, so we added elements of delight that afford interacting with.
-This user experience is a timely reminder of the need for disruption in our industry.
-The proximity of these elements generates a feeling of satisfaction when the user interacts with it.
-The universal principles of design informed our desire to create a flexible and responsive platform.
-We must embrace failure as the fastest path to releasing a conversation with our customers.
-There are a lot of assumptions baked into these designs, so we took a Lean UX approach.
-Our designs are intuitive, engaging, simple, and diverse.
-Humanizing our users means we have developed empathy for their role and designed the interface to account for it.
-We focused on using concise language that creates a personal connection between our brand and the user.
-We expect to create harmony for our customers by leveraging a collaborative workshop approach to design techniques.
-Our design solution includes many enhancements to the accessibility of our tools. 
-This solution is clean and minimalistic in nature, so that we can create value for our users with design patterns.
-We've removed distractions from the interface so that we are able to optimize the performance of the UX.
-We created an efficiency with this interaction so that we allow our user's on-boarding process to be inclusive.
-All of our design systems are built with components to be useful, iterative, and adaptive.
-By embracing behavior change in our customers, we create new paths for sustainability in the industry.
-Our use of color and negative space assists the user in getting from point A to point B. 
-We need our users to look from top to bottom and left to right. 
-A flexible design pattern requires that our component library support cognitive bias overload.
-The performance of the system depends wholly on whether the user is able to finish the task.
-Cognitive bias is the surest way to deliver the outcome we design for our sprint.
-The interface is approachable for users seeking to diversify their cohesive experience.
-To achieve this disruptive design, we spent weeks studying the various assumptions that affect our bias.
-Our interaction designs are seamless, timely, engaging, and delightful. 
-Our design sprints create collaborative opportunities for customers to engage with our platform on-demand.
-The reusability of this library simplifies the nature of our design process and opens opportunities for transparency.
-A useful and usable UX solution should consider the context of the user's conversational UI.
-Providing feedback to our customers is a critical component to leveraging disruptive design techniques at scale.
-Our solution will scale because it is designed to be flexible with market conditions.
-We've avoided the use of dark patterns to avoid the ethical questions of design latency.
-The user's cognitive load must be considered by everyone on the team to ensure we deliver the right paradigm.
-The information architecture of our platform assists in creating an environment for workshop exercises. 
-Keep in mind that a majority of our users desire to interact with our systems with a cohesive experience.
+
