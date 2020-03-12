@@ -394,4 +394,36 @@ The cognitive bias inherent in this solution is the key to removing assumptions 
 We want to fail fast and fail often so we can deliver on a user experience that modifies user behavior.
 Each affordance you'll see in these designs are intentionally designed to create harmony for the user.
 Everyone on the team is aligned on the expectations that the user interface is intuitive and overwhelming.
-
+We believe the clarity provided by this design exceeds the customer's expectations for quality and simplicity. 
+We provide value through a streamlined interface that simplifies the user journey maps.
+Our flexible approach to design workshops affords us more opportunities to lean into design thinking.
+This affordance helps our users to complete their task with plenty of time for research.
+Personalization is the future of UI design and our UX solutions are simple and elegant.
+The architecture of our style guide facilitates the user from developing empathy maps.
+Our guidelines for interaction are meant to create transparency in our business.
+Our business goals can be accomplished by embracing user behavioral analysis techniques.
+We did a user study and found that 90% of customers are delighted by these interactions.
+The main reason why our designs are effective is that we superimposed our journey map onto the customer empathy canvas.
+Our user experience team is well equipped to handle the challenges of modern platforms.
+We ran a design studio exercise to find out if our workshops have yielded the correct UX solutions.
+Every time we iterate on these designs, we create multiple opportunities for collaborating on the most effective solution.
+By eliminating bias from our process, the design team can focus on reducing cognitive load for the user.
+We can humanize the customer experience by creating an empathetic system designed to personalize the experience.
+We've designed a high performance system capable of scaling across the chasm of product leadership techniques.
+With a cohesive understanding of the user experience, everyone on the team can ideate until completion. 
+Every design challenge presents a new opportunity for our company to adapt to a changing marketplace. 
+Our designers can create the very best user experiences by implementing user testing models in the wild.
+The pace of our progress is seen in the iterative approach and testing methodology we deploy every day. 
+This minimalistic interface allows the users to get from point A to point B without friction. 
+There is no such thing as failure when we iterate fast and move to mitigate risk. 
+Our approachable UI is tailored to each individuals unique needs as a human. 
+I can't overstate how developing empathy has been transformational to our design process. 
+Using the right methodology is key to deploying multiple revisions of the design without delay.
+Being disruptive is difficult but our team has pulled it off with user journey mapping workshops.
+We create delight for users and evoke emotion with the color of this button.
+Only a holistic approach will yield the long-term results our business demands from UX design.
+A concise visual language is critical in today's competitive landscape.
+Designing systems and libraries of systems is not possible without inclusive design strategies.
+Our UX and product teams cannot succeed without the support of the executive team.
+There's a perceptible difference between our existing design and this new solution.
+We don't want our users to be overwhelmed with the amount of information they see.
