@@ -27,8 +27,7 @@ a:hover {
 	text-decoration: none;
 }
 h1 {
-    font-size: 125%;
-    text-align: center;
+    font-size: 130%;
     font-weight: 300;
 }
 p {
@@ -66,17 +65,39 @@ blockquote {
 header {
     display: flex;
     align-items: center;
+    flex-wrap: wrap;
     
-    .titles {
-        flex-grow: 1;
-        padding-left: @gutter/2;
-        padding-right: @gutter/2;
+    a {
+        width: 60px;
+        height: 60px;
+    }
+    .title {
+        flex: 1 1 0;
+        display: flex;
+        align-items: flex-end;
+        text-align: center;
+        
+        h1 {
+            width: 100%;
+            line-height: 1;
+            text-align: left;
+            padding-left: @gutter/2;
+        }
+    }
+
+    .paragraph {
+//         text-align: center;
+        width: 100%;
+        
+        p {
+            margin-bottom: 0;
+            font-size: 90%;
+            line-height: 1;
+            margin-top: 15px;
+        }
     }
 }
-header p {
-    margin-bottom: 0;
-    text-align: center;
-}
+
 button {
     display: block;
     padding: @gutter/3 @gutter;
@@ -112,16 +133,50 @@ footer.container {
     padding: @gutter;
 }
 .parakeet {
-    width: 100px;
-    height: 100px;
+    width: 60px;
+    height: 60px;
     border-radius: 100%;
     border: 3px solid #ccc;
 }
-@media (min-width: 800px) {
-    h1 {
-        margin-bottom: @gutter/2;
+@media (min-width: 408px) {
+    header .title h1 {
+    line-height: auto;
+    text-align: center;
+    }
+    header .paragraph {
+        text-align: center;
+    }
+}
+@media (min-width: 525px) {
+    header {
+        flex-direction: column;
+        flex-wrap: wrap;
+        height: 130px;
+        align-items: stretch;
+        
+    .title, .paragraph {
+        width: calc(100% - 100px);
+        flex: 1 1 auto;
+        
+        p {
+            font-size: 100%;
+        }
+      }
+      .parakeet, a {
+        width: 100px;
+        height: 100px;
+        }
+    }
+    header .title h1 {
+        font-size: 150%;
+    }
+}
+@media (min-width: 610px) {
+    header .title h1 {
         font-size: 180%;
     }
+}
+@media (min-width: 800px) {
     blockquote {
         font-size: 280%;
     }
